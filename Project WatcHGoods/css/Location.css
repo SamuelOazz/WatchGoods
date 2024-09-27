@@ -1,0 +1,177 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v42_70 {
+  width: 100%;
+  height: 1080px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v44_84 {
+  width: 984px;
+  height: 720px;
+  background: url("../images/v44_84.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 196px;
+  left: 909px;
+  overflow: hidden;
+}
+.v44_71 {
+  width: 984px;
+  height: 720px;
+  background: url("../images/v44_71.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v44_85 {
+  width: 100%;
+  background: url("../images/v44_85.png");
+  opacity: 1;
+  position: absolute;
+  top: 169px;
+  left: 0px;
+  border: 2px solid rgba(199,199,199,1);
+}
+.v44_100 {
+  width: 882px;
+  background: url("../images/v44_100.png");
+  opacity: 1;
+  position: absolute;
+  top: 568px;
+  left: 0px;
+  border: 2px solid rgba(199,199,199,1);
+}
+.v44_86 {
+  width: 168px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 120px;
+  left: 1369px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_87 {
+  width: 135px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 120px;
+  left: 892px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_88 {
+  width: 200px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 120px;
+  left: 1133px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_89 {
+  width: 154px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 120px;
+  left: 485px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_90 {
+  width: 408px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 755px;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_91 {
+  width: 190px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 120px;
+  left: 692px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_98 {
+  width: 348px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 250px;
+  left: 23px;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_99 {
+  width: 348px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 664px;
+  left: 23px;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_122 {
+  width: 100%;
+  height: 120px;
+  background: rgba(39,38,38,1);
+  opacity: 1;
+  position: absolute;
+  top: 960px;
+  left: 0px;
+}
+.v44_123 {
+  width: 358px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1005px;
+  left: 785px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}

@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v42_51 {
+  width: 100%;
+  height: 1080px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v42_52 {
+  width: 100%;
+  background: url("../images/v42_52.png");
+  opacity: 1;
+  position: absolute;
+  top: 162px;
+  left: 1px;
+  border: 2px solid rgba(199,199,199,1);
+}
+.v42_53 {
+  width: 168px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 112px;
+  left: 1370px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_54 {
+  width: 135px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 112px;
+  left: 893px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_55 {
+  width: 200px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 112px;
+  left: 1134px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_56 {
+  width: 154px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 112px;
+  left: 486px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_57 {
+  width: 408px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 10px;
+  left: 756px;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_58 {
+  width: 190px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 112px;
+  left: 693px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_67 {
+  width: 100%;
+  height: 917px;
+  background: url("../images/v42_67.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 163px;
+  left: 0px;
+  overflow: hidden;
+}
+.v42_69 {
+  width: 408px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 306px;
+  left: 511px;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_68 {
+  width: 874px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 433px;
+  left: 523px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v44_120 {
+  width: 100%;
+  height: 120px;
+  background: rgba(39,38,38,1);
+  opacity: 1;
+  position: absolute;
+  top: 960px;
+  left: 0px;
+}
+.v44_121 {
+  width: 358px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1001px;
+  left: 781px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}

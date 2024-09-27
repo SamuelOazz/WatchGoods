@@ -1,0 +1,474 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_2 {
+  width: 100%;
+  height: 3124px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v18_119 {
+  width: 531px;
+  height: 677px;
+  background: url("../images/v18_119.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1658px;
+  left: 30px;
+  overflow: hidden;
+}
+.v3_102 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v3_102.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v18_116 {
+  width: 145px;
+  height: 79px;
+  background: url("../images/v18_116.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1387px;
+  left: 888px;
+  overflow: hidden;
+}
+.v18_115 {
+  width: 176px;
+  height: 80px;
+  background: url("../images/v18_115.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1400px;
+  left: 1369px;
+  overflow: hidden;
+}
+.v18_122 {
+  width: 173px;
+  height: 56px;
+  background: rgba(255,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 1685px;
+  left: 58px;
+  overflow: hidden;
+}
+.v18_121 {
+  width: 129px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1692px;
+  left: 80px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_113 {
+  width: 772px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1293px;
+  left: 574px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_117 {
+  width: 706px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1567px;
+  left: 606px;
+  font-family: Maven Pro;
+  font-weight: SemiBold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v2_5 {
+  width: 100%;
+  background: url("../images/v2_5.png");
+  opacity: 1;
+  position: absolute;
+  top: 162px;
+  left: 1px;
+  border: 2px solid rgba(199,199,199,1);
+}
+.v2_9 {
+  width: 408px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 7px;
+  left: 756px;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_84 {
+  width: 154px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 485px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_85 {
+  width: 190px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 692px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_86 {
+  width: 200px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 113px;
+  left: 1134px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_88 {
+  width: 135px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 892px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_89 {
+  width: 168px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 120px;
+  left: 1369px;
+  font-family: Train One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_97 {
+  width: 533px;
+  height: 677px;
+  background: url("../images/v3_97.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1658px;
+  left: 1330px;
+  overflow: hidden;
+}
+.v3_96 {
+  width: 533px;
+  height: 677px;
+  background: url("../images/v3_96.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1658px;
+  left: 693px;
+  overflow: hidden;
+}
+.v18_114 {
+  width: 424px;
+  height: 78px;
+  background: url("../images/v18_114.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1388px;
+  left: 199px;
+  overflow: hidden;
+}
+.v18_123 {
+  width: 173px;
+  height: 56px;
+  background: rgba(255,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 1685px;
+  left: 710px;
+}
+.v18_127 {
+  width: 173px;
+  height: 56px;
+  background: rgba(255,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 1695px;
+  left: 1349px;
+}
+.v25_141 {
+  width: 100%;
+  background: url("../images/v25_141.png");
+  opacity: 1;
+  position: absolute;
+  top: 1276px;
+  left: 0px;
+  border: 2px solid rgba(199,199,199,1);
+}
+.v18_124 {
+  width: 130px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1692px;
+  left: 731px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_126 {
+  width: 130px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1702px;
+  left: 1370px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_137 {
+  width: 150px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2370px;
+  left: 1540px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_128 {
+  width: 148px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2370px;
+  left: 896px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_139 {
+  width: 135px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2370px;
+  left: 241px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_129 {
+  width: 374px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2424px;
+  left: 780px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_140 {
+  width: 377px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2424px;
+  left: 120px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v18_138 {
+  width: 354px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2424px;
+  left: 1438px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v25_142 {
+  width: 100%;
+  height: 120px;
+  background: rgba(39,38,38,1);
+  opacity: 1;
+  position: absolute;
+  top: 3004px;
+  left: 0px;
+}
+.v25_144 {
+  width: 345px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 3049px;
+  left: 795px;
+  font-family: Maven Pro;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v27_2 {
+  width: 100%;
+  height: 300px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 2515px;
+  left: 9px;
+  overflow: hidden;
+}
+.v32_2 {
+  width: 100%;
+  height: 300px;
+  background: url("../images/v32_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2515px;
+  left: 9px;
+  overflow: hidden;
+}
+.v18_109 {
+  width: 228px;
+  height: 260px;
+  background: url("../images/v18_109.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2587px;
+  left: 639px;
+  transform: rotate(-15deg);
+  overflow: hidden;
+}
+.v18_110 {
+  width: 228px;
+  height: 260px;
+  background: url("../images/v18_110.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2542px;
+  left: 505px;
+  overflow: hidden;
+}
+.v18_112 {
+  width: 228px;
+  height: 260px;
+  background: url("../images/v18_112.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2528px;
+  left: 240px;
+  overflow: hidden;
+}
+.v18_111 {
+  width: 228px;
+  height: 260px;
+  background: url("../images/v18_111.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2542px;
+  left: 379px;
+  overflow: hidden;
+}
+.v3_90 {
+  width: 100%;
+  color: rgba(255,255,255,0.8299999833106995);
+  position: absolute;
+  top: 2569px;
+  left: 146px;
+  font-size: 48px;
+  opacity: 1;
+  text-align: right;
+}
+.v27_5 {
+  width: 884px;
+  color: rgba(255,255,255,0.7099999785423279);
+  position: absolute;
+  top: 582px;
+  left: 519px;
+  font-family: Maven Pro;
+  font-weight: Bold;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
